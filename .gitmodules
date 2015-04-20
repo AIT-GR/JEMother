@@ -1,0 +1,18 @@
+[submodule "JEAPI"]
+	path = JEAPI
+	url = https://github.com/OpenJEVis/JEAPI.git
+[submodule "JECommons"]
+	path = JECommons
+	url = https://github.com/OpenJEVis/JECommons.git
+[submodule "JEAPI-SQL"]
+	path = JEAPI-SQL
+	url = https://github.com/OpenJEVis/JEAPI-SQL.git
+[submodule "JEDataCollector"]
+	path = JEDataCollector
+	url = https://github.com/OpenJEVis/JEDataCollector.git
+[submodule "JEApplication"]
+	path = JEApplication
+	url = https://github.com/OpenJEVis/JEApplication.git
+[submodule "JEConfig"]
+	path = JEConfig
+	url = https://github.com/OpenJEVis/JEConfig.git
