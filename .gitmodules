@@ -16,3 +16,6 @@
 [submodule "JEConfig"]
 	path = JEConfig
 	url = https://github.com/OpenJEVis/JEConfig.git
+[submodule "JEWebService"]
+	path = JEWebService
+	url = https://github.com/OpenJEVis/JEWebService.git
